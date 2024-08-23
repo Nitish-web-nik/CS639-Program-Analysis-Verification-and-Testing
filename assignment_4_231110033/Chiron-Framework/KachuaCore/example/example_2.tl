@@ -1,0 +1,9 @@
+forward 20
+left 90
+backward 50
+right 90 
+backward 60
+right 90
+forward 30
+left 90
+forward 70
